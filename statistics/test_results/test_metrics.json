@@ -1,0 +1,20 @@
+{
+
+  "mean_iou (testing)": 0.41715724468803245,
+  "mean_iou (Validation)": 0.6,
+  "f1 score (validation)" : 0.75,
+  "f1 score (testing)": 0.5887,
+  "pixel_accuracy": 0.6167778948842512,
+  "per_class": {
+    "Trees": 0.4807547605339868,
+    "Lush Bushes": 0.0035095398099848595,
+    "Dry Grass": 0.3596116529202654,
+    "Dry Bushes": 0.3805534000827334,
+    "Ground Clutter": null,
+    "Flowers": null,
+    "Logs": null,
+    "Rocks": 0.07676675747005045,
+    "Landscape": 0.6403168007374028,
+    "Sky": 0.9785878012618031
+  }
+}
